@@ -1,10 +1,5 @@
 import math
 
-# ==========================================
-# 1. TRẢ LỜI CÂU HỎI LÝ THUYẾT (TÔ VÀNG TRANG 2):
-# - remove(x): Xóa phần tử ĐẦU TIÊN trong List có giá trị bằng x. Không trả về giá trị (None).
-# - pop(i): Xóa phần tử tại vị trí index `i` (mặc định là cuối cùng nếu để trống) và TRẢ VỀ giá trị vừa xóa.
-# ==========================================
 
 print("=== HOẠT ĐỘNG 1: List cơ bản ===")
 # Bài tập 1.1 - Khai báo & truy cập:
