@@ -1,0 +1,10 @@
+# FILE main.py
+
+import utils
+
+print("--- Hoạt động 7: Mini project ---")
+print(utils.dao_nguoc_chuoi("Python"))
+print(utils.kiem_tra_palindrome("radar"))
+print(utils.chuan_hoa_ho_ten("   nguyen  van   an  "))
+print(utils.uscln(24, 36))
+print(utils.kiem_tra_nguyen_to(29))
